@@ -1,10 +1,10 @@
-ul{color:#81BEF7}
+ul{color:magenta}
 
-body{background:#81BEF7}
+body{background:blue}
 
 .train-form{background-color:yellow}
 
-.input-field{border: solid; blue; font-size: 24px }
+.input-field{border: solid; color: blue; font-size: 24px }
 
 #intensity-heading{
   color:orange;
