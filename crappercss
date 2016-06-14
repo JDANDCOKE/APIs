@@ -1,0 +1,20 @@
+  ul{
+  color:magenta;
+  }
+  body {
+  background-color:yellow;
+  }
+.train-form{
+  background-color: yellow;
+  }
+  input-field {
+  border:solid 5px blue;
+  font-size: 24px;
+  }
+  #Enjoyment-heading{
+  color:green;
+  }
+
+  #Intensity-heading{
+  color:blue;
+  }
